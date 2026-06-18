@@ -128,7 +128,7 @@ I'm a **Production-focused Machine Learning Engineer** pursuing my B.Tech in Com
 ```
 RAG Architectures  •  Agentic Systems  •  LoRA / QLoRA Fine-tuning
 GRPO / PPO / RLHF  •  Chain-of-Thought Reasoning  •  vLLM  •  FAISS
-Semantic Segmentation  •  Time-Series Forecasting  •  Prompt Engineering
+Semantic Segmentation  •  Time-Series Forecasting
 ```
 
 ---
