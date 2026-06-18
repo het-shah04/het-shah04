@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Het%20Shah&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%E2%80%A2%20NLP%20%E2%80%A2%20LLMs%20%E2%80%A2%20Agentic%20AI&descAlignY=55&descSize=18" />
@@ -30,12 +31,20 @@ Here are some ideas to get you started:
 
 ## 👋 About Me
 
-I'm a **Production-focused Machine Learning Engineer** pursuing my B.Tech in Computer Science at **IIIT Delhi (CGPA: 8.08/10)**. I specialize in building and deploying end-to-end AI systems — from fine-tuning LLMs with RL alignment techniques to shipping agentic RAG pipelines on cloud infrastructure.
+Hi! I am Het, a recent Computer Science graduate from **IIIT Delhi**. I have experience working on projects around **Natural Language Processing (NLP)**, **Deep Learning (DL)**, and **Reinforcement Learning (RL)**. I have done various internships and published research papers at top venues like **ACL** and **AAAI**.
 
-- 🔬 **Co-authored Research Papers** published at **ACL 2026** and **AAAI 2026**
-- 🌐 **Google Summer of Code 2026** contributor — working on satellite imagery ML pipelines
-- 🧠 Deep expertise in **GRPO, LoRA/QLoRA, RAG, and Agentic AI architectures**
-- ☁️ Production deployments on **AWS & GCP** with FastAPI, vLLM, and Docker
+I am open to discussing new job and research opportunities around ML, NLP, DL, and RL. Feel free to reach out at [het.shah25052004@gmail.com](mailto:het.shah25052004@gmail.com)!
+
+---
+
+## 🔭 Research Interests
+
+My research interests span **Natural Language Processing**, **Large Language Models**, **Knowledge Graphs**, **Agentic AI**, **Retrieval-Augmented Generation**, **Deep Learning**, **Generative AI**, and **Reinforcement Learning**.
+
+- In **NLP/LLMs**, I focus on LLM applications, agentic AI, and core LLM optimization problems
+- In **Reinforcement Learning**, I am interested in LLM post-training using RL — I have published work on training generalist reasoning models using a novel **GRPO-based** approach at the **AAAI 2026 PLAN-FM Bridge Workshop**
+- I worked as an Undergraduate Researcher at IIIT Delhi's **FLaME.nlp Lab** under [Dr. Md. Shad Akhtar](https://www.iiitd.ac.in/shad), with work published at the **ACL 2026 Main Conference (Oral Presentation)**
+- I have had the opportunity to intern at the **AI Institute, University of South Carolina (AIISC)** under [Dr. Amit Sheth](https://aiisc.ai/amit/), with work published at **AAAI 2026 Main Conference**, and at **IIT Patna** under [Dr. Sriparna Saha](https://www.iitp.ac.in/~sriparna/)
 
 ---
 
@@ -62,12 +71,12 @@ I'm a **Production-focused Machine Learning Engineer** pursuing my B.Tech in Com
 </details>
 
 <details>
-<summary><b>🤖 Wadhwani AI — ML Engineer Intern</b> (Jan 2026 – Jun 2026)</summary>
+<summary><b>🤖 Wadhwani AI — Machine Learning Scientist Intern</b> (Jan 2026 – Jun 2026)</summary>
 
+- Worked on improving domain-specific models for question answering using **Retrieval-Augmented Generation (RAG)**
+- Developed a hierarchical chunking technique which improved retrieval and reranking results by **16%** and **19%** respectively on recall@k metrics
 - Architected an enterprise agricultural knowledge base with **Mistral OCR**, orchestrating cloud-native ETL jobs via **AWS S3** and **GCP Cloud Functions** to ingest 8,000+ multi-modal documents
-- Deployed a production-grade **Agentic RAG pipeline** (FastAPI + vLLM + Docker) achieving **~5s end-to-end latency**
-- Benchmarked 5+ RAG configurations across 1,500+ golden evaluation queries using **Weights & Biases**
-- Boosted target context retrieval accuracy by **18%** and LLM generation correctness by **8%** via hierarchical chunking
+- Deployed the end-to-end RAG pipeline (retrieval, reranker, and final answer generation) for commercial use using **FastAPI + vLLM + Docker**
 
 </details>
 
@@ -128,8 +137,20 @@ I'm a **Production-focused Machine Learning Engineer** pursuing my B.Tech in Com
 ```
 RAG Architectures  •  Agentic Systems  •  LoRA / QLoRA Fine-tuning
 GRPO / PPO / RLHF  •  Chain-of-Thought Reasoning  •  vLLM  •  FAISS
-Semantic Segmentation  •  Time-Series Forecasting
+Semantic Segmentation  •  Time-Series Forecasting  •  Prompt Engineering
 ```
+
+---
+
+## 🚀 Featured Projects
+
+### 🧩 [Harmful Meme Classification Pipeline](https://github.com/het-shah04/NLP-Project-Mental-Health-Meme-Classification)
+> Multi-modal Transformer classifier (ViT + LLM) • **New SoTA** — +4.5% macro F1 over prior baselines
+- Cross-attention fusion of visual (ViT) and text (LLM) representations on 10,000+ high-noise samples
+
+### 📉 [Economic Recession Cycles Prediction](https://github.com/1ev0y/ML-Project)
+> Ensemble ML • XGBoost • Scikit-learn • 40+ years of U.S. macroeconomic data
+- GDP trajectory forecasting 6 months ahead with **R² = 0.91**; detected historical recessions at **89% F1-score**
 
 ---
 
