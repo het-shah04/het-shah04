@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## 👋 About Me
 
-Hi! I am Het, a recent Computer Science graduate from **IIIT Delhi**. I have experience working on projects around **Natural Language Processing (NLP)**, **Deep Learning (DL)**, and **Reinforcement Learning (RL)**. I have done various internships and published research papers at top venues like **ACL** and **AAAI**.
+Hi! I am Het, a recent Computer Science graduate from **IIIT Delhi**. I have experience working on projects around **Natural Language Processing (NLP)**, **Deep Learning (DL)**, and **Reinforcement Learning (RL)**. I have done various internships and published research papers at top venues like **ACL** and **AAAI**. I have build and deployed machine learning systems and agentic workflows.
 
 I am open to discussing new job and research opportunities around ML, NLP, DL, and RL. Feel free to reach out at [het.shah25052004@gmail.com](mailto:het.shah25052004@gmail.com)!
 
