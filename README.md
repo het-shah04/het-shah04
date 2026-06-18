@@ -135,40 +135,11 @@ My research interests span **Natural Language Processing**, **Large Language Mod
 **Specializations**
 
 ```
+Deep Learning • Natural Language Processing • Reinforcement Learning
 RAG Architectures  •  Agentic Systems  •  LoRA / QLoRA Fine-tuning
 GRPO / PPO / RLHF  •  Chain-of-Thought Reasoning  •  vLLM  •  FAISS
 Semantic Segmentation  •  Time-Series Forecasting
 ```
-
----
-
-## 🚀 Featured Projects
-
-### 🧩 [Harmful Meme Classification Pipeline](https://github.com/het-shah04/NLP-Project-Mental-Health-Meme-Classification)
-> Multi-modal Transformer classifier (ViT + LLM) • **New SoTA** — +4.5% macro F1 over prior baselines
-- Cross-attention fusion of visual (ViT) and text (LLM) representations on 10,000+ high-noise samples
-
-### 📉 [Economic Recession Cycles Prediction](https://github.com/1ev0y/ML-Project)
-> Ensemble ML • XGBoost • Scikit-learn • 40+ years of U.S. macroeconomic data
-- GDP trajectory forecasting 6 months ahead with **R² = 0.91**; detected historical recessions at **89% F1-score**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=het-shah04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=het-shah04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=het-shah04&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 <div align="center">
