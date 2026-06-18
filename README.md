@@ -41,7 +41,7 @@ I am open to discussing new job and research opportunities around ML, NLP, DL, a
 
 My research interests span **Natural Language Processing**, **Large Language Models**, **Knowledge Graphs**, **Agentic AI**, **Retrieval-Augmented Generation**, **Deep Learning**, **Generative AI**, and **Reinforcement Learning**.
 
-- In **NLP/LLMs**, I focus on LLM applications, agentic AI, and core LLM optimization problems
+- In **NLP/LLMs**, I focus on LLM applications research, agentic AI, and core LLM optimization problems
 - In **Reinforcement Learning**, I am interested in LLM post-training using RL — I have published work on training generalist reasoning models using a novel **GRPO-based** approach at the **AAAI 2026 PLAN-FM Bridge Workshop**
 - I worked as an Undergraduate Researcher at IIIT Delhi's **FLaME.nlp Lab** under [Dr. Md. Shad Akhtar]([https://www.iiitd.ac.in/shad](https://scholar.google.com/citations?user=KUcO6LAAAAAJ&hl=en)), with work published at the **ACL 2026 Main Conference (Oral Presentation)**
 - I have had the opportunity to intern at the **AI Institute, University of South Carolina (AIISC)** under [Dr. Amit Sheth]([https://aiisc.ai/amit/](https://scholar.google.com/citations?user=2T3H4ekAAAAJ&hl=en)), with work published at **AAAI 2026 Main Conference**, and at **IIT Patna** under [Dr. Sriparna Saha]([https://www.iitp.ac.in/~sriparna/](https://scholar.google.com/citations?user=Fj7jA_AAAAAJ&hl=en))
