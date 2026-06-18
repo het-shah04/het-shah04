@@ -133,29 +133,6 @@ Semantic Segmentation  •  Time-Series Forecasting  •  Prompt Engineering
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧩 [Harmful Meme Classification Pipeline](https://github.com/het-shah04/NLP-Project-Mental-Health-Meme-Classification)
-> Multi-modal Transformer classifier (ViT + LLM) • **New SoTA** — +4.5% macro F1 over prior baselines
-- Cross-attention fusion of visual (ViT) and text (LLM) representations on 10,000+ high-noise samples
-
-### 📉 [Economic Recession Cycles Prediction](https://github.com/1ev0y/ML-Project)
-> Ensemble ML • XGBoost • Scikit-learn • 40+ years of U.S. macroeconomic data
-- GDP trajectory forecasting 6 months ahead with **R² = 0.91**; detected historical recessions at **89% F1-score**
-
----
-
-## 🏆 Highlights
-
-```
-🥇  AIR 152 / 82,000+ entries  →  Amazon ML Challenge 2025
-🏅  Best Undergraduate Researcher  →  FLaME.nlp Lab, IIIT Delhi
-🌐  Google Summer of Code 2026  →  Satellite Imagery ML
-📢  2× Oral Presentations  →  ACL 2026 Main Conference & AAAI 2026 PLAN-FM
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
