@@ -32,8 +32,7 @@ Here are some ideas to get you started:
 
 I'm a **Production-focused Machine Learning Engineer** pursuing my B.Tech in Computer Science at **IIIT Delhi (CGPA: 8.08/10)**. I specialize in building and deploying end-to-end AI systems — from fine-tuning LLMs with RL alignment techniques to shipping agentic RAG pipelines on cloud infrastructure.
 
-- 🔬 **First-author researcher** published at **ACL 2026** and **AAAI 2026**
-- 🏆 **All India Rank 152** out of 82,000+ in the Amazon ML Challenge 2025
+- 🔬 **Co-authored Research Papers** published at **ACL 2026** and **AAAI 2026**
 - 🌐 **Google Summer of Code 2026** contributor — working on satellite imagery ML pipelines
 - 🧠 Deep expertise in **GRPO, LoRA/QLoRA, RAG, and Agentic AI architectures**
 - ☁️ Production deployments on **AWS & GCP** with FastAPI, vLLM, and Docker
